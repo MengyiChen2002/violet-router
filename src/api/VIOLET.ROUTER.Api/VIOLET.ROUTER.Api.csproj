@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VIOLET.ROUTER.Domain\VIOLET.ROUTER.Domain.csproj" />
+    <ProjectReference Include="..\VIOLET.ROUTER.Data\VIOLET.ROUTER.Data.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
